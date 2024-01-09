@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate with open source
-- 📫 How to reach me: You can get in touch with me on my LinkedIn Profile:  [![LinkedIn Link](https://img.shields.io/badge/Connect-Usama Butt-blue.svg?color=1DA1F2&logo=linkedin&longCache=true&style=for-the-badge
+- 📫 How to reach me: You can get in touch with me on my LinkedIn Profile:  [![LinkedIn Link](https://img.shields.io/badge/Connect-UsamaButt-blue.svg?color=1DA1F2&logo=linkedin&longCache=true&style=for-the-badge
 )](https://www.linkedin.com/in/muhammad-usama-butt/)
 - ⚡ Fun fact: cricket
 

@@ -1,10 +1,10 @@
-- 👋 Hi, I'm Usama Butt
-- 👀 I'm interested in web development
-- 🌱 I am a MERN Stack developer
-- 💞️ I am an open-source enthusiast
+- 👋 Hi, I'm Usama Butt.
+- 👀 I'm interested in web development.
+- 🌱 I am a MERN Stack developer.
+- 💞️ I am an open-source enthusiast.
 - 📫 How to reach me: You can get in touch with me on my LinkedIn profile: [![LinkedIn Link](https://img.shields.io/badge/Connect-UsamaButt-blue.svg?color=1DA1F2&logo=linkedin&longCache=true&style=for-the-badge
 )](https://www.linkedin.com/in/muhammad-usama-butt/)
-- ⚡ Fun fact: I enjoy cricket
+- ⚡ Fun fact: I enjoy cricket.
 
 
 ### Languages and Tools:

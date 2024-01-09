@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @usamabuttdev
+- 👋 Hi, I’m Usama Butt
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate with open source
@@ -6,7 +6,4 @@
 - 😄 Pronouns: butt
 - ⚡ Fun fact: cricket
 
-<!---
-usamabuttdev/usamabuttdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+

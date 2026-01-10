@@ -2,8 +2,9 @@
 <h3 align="center">Senior Software Engineer | Full-Stack & AI Integrations | Based in Finland</h3>
 
 <p align="center">
-With a strong passion for software engineering, I’m committed to exploring emerging technologies and utilizing modern tech stacks to build scalable, efficient, and impactful solutions. 
-I enjoy transforming complex challenges into clean, maintainable code while delivering high-quality software that truly makes a difference.
+I am a Senior Software Engineer with 5+ years of experience building scalable full-stack applications and AI-enabled systems. I specialize in designing modern web platforms, cloud-native backends, and intelligent features powered by Generative AI and automation tools.
+
+My work focuses on real-world engineering: clean architectures, reliable APIs, AI integrations, performance optimization, and production-ready deployments. I enjoy building systems that solve business problems, automate workflows, and scale with real users.
 </p>
 
 <br>

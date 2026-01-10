@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usama Butt</h1>
-<h3 align="center">Senior Full-Stack Developer | Based in Finland</h3>
+<h3 align="center">Senior Software Engineer | Full-Stack & AI Integrations | Based in Finland</h3>
 
 <p align="center">
 With a strong passion for software engineering, I’m committed to exploring emerging technologies and utilizing modern tech stacks to build scalable, efficient, and impactful solutions. 

@@ -2,7 +2,7 @@
 <h3 align="center">Senior Software Engineer | Full-Stack & AI Integrations | Based in Finland</h3>
 
 <p align="center">
-I am a Senior Software Engineer with 5+ years of experience building scalable full-stack applications and AI-enabled systems. I specialize in modern web platforms, cloud-native backends, and intelligent features powered by Generative AI and automation tools.
+I am a Senior Software Engineer with 7+ years of experience building scalable full-stack applications and AI-enabled systems. I specialize in modern web platforms, cloud-native backends, and intelligent features powered by Generative AI and automation tools.
 <br><br>
 My work focuses on production-ready engineering: clean architectures, reliable APIs, AI integrations, performance optimization, and scalable deployments. I build systems that solve real business problems, automate workflows, and scale with real users.
 </p>

@@ -1,75 +1,63 @@
-<h1 align="center">Hi 👋, I'm Muhammad Usama Butt</h1>
+<h1>Hi 👋, I'm Muhammad Usama Butt</h1>
 
-<h3 align="center">
-Senior Full-Stack & AI Engineer | Scalable Systems | APIs & Automation
-</h3>
+<h3>Senior Full-Stack & AI Engineer | Scalable Systems | APIs & Automation</h3>
 
-<p align="center">
-I build production-grade systems that scale.<br>
-Focused on clean architecture, high-performance APIs, and real-world AI integrations.
+<p>
+I build production-grade systems that scale. Focused on clean architecture, high-performance APIs, and real-world AI integrations.
 </p>
 
-<p align="center">
-🚀 I help startups and teams build scalable platforms, optimize performance, and integrate AI into real products.
+<p>
+🚀 Helping startups and teams build scalable platforms, optimize performance, and integrate AI into real products.
 </p>
 
-<p align="center">
+<p>
 💼 7+ years experience • AI Systems • Scalable SaaS • Real-time Platforms
 </p>
 
-<br><br>
+---
 
-<h3 align="center">🚀 Featured Work</h3>
+## 🚀 Featured Work
 
-<p align="center">
-  🔹 <a href="https://app.apexmarkets.io"><b>Apex Markets</b></a> – Real-time trading & analytics system<br>
-  🔹 <a href="https://enterpriseready.io"><b>EnterpriseReady</b></a> – Scalable SaaS architecture<br>
-  🔹 <a href="https://metutors.com/"><b>Metutors</b></a> – Large-scale learning platform
-</p>
+### 🔹 <a href="https://app.apexmarkets.io"><b>Apex Markets</b></a>
+Real-time trading & analytics system handling live data streams, user state, and performance-critical operations.
 
-<br><br>
+### 🔹 <a href="https://enterpriseready.io"><b>EnterpriseReady</b></a>
+Designed scalable SaaS architecture with clean data modeling and production-ready backend systems.
 
-<h3 align="center">🧠 What I Do</h3>
+### 🔹 <a href="https://metutors.com/"><b>Metutors</b></a>
+Large-scale learning platform with complex workflows, integrations, and scalable backend infrastructure.
 
-<p align="center">
-✔ Design scalable system architectures (frontend, backend, infra)<br>
-✔ Build high-performance APIs and data pipelines<br>
-✔ Integrate AI/LLMs into production systems<br>
-✔ Optimize performance, reliability, and cost<br>
-✔ Guide teams toward clean, maintainable codebases
-</p>
+---
 
-<br><br>
+## 🧠 What I Do
 
-<h3 align="center">⚙️ Tech Stack</h3>
+- Design scalable system architectures (frontend, backend, infra)
+- Build high-performance APIs and data pipelines
+- Integrate AI/LLMs into production systems
+- Optimize performance, reliability, and cost
+- Guide teams toward clean, maintainable codebases
 
-<b>Backend & Systems</b>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,py,fastapi,django,graphql,postgres,mongodb" height="40" />
-</p>
+---
 
-<b>Frontend</b>
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,tailwind" height="40" />
-</p>
+## ⚙️ Tech Stack
 
-<b>Cloud, DevOps & Tools</b>
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,git,github,postman,vscode" height="40" />
-</p>
+### Backend & Systems
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,py,fastapi,django,graphql,postgres,mongodb" />
 
-<br><br>
+### Frontend
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,tailwind" />
 
-<h3 align="center">📈 Focus Areas</h3>
+### Cloud, DevOps & Tools
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,git,github,postman,vscode" />
 
-<p align="center">
+---
+
+## 📈 Focus Areas
+
 System Architecture • API Design • Performance Optimization • AI Integrations • Automation • Scalable SaaS
-</p>
 
-<br><br>
+---
 
-<h3 align="center">🤝 Let's Connect</h3>
+## 🤝 Let's Connect
 
-<p align="center">
 Open to consulting, architecture reviews, and long-term collaborations.
-</p>

@@ -9,24 +9,24 @@ My work focuses on production-ready engineering: clean architectures, reliable A
 
 <br>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-</div>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" style="display:inline-block;" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" style="display:inline-block;" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" style="display:inline-block;" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" style="display:inline-block;" />
+  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="50" style="display:inline-block;" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" style="display:inline-block;" />
+</p>
 
 <br>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="50" height="50" />
-</div>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" style="display:inline-block;" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" style="display:inline-block;" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" style="display:inline-block;" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" style="display:inline-block;" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="50" style="display:inline-block;" />
+</p>
 
 <br>
 
@@ -35,33 +35,33 @@ My work focuses on production-ready engineering: clean architectures, reliable A
 <h3 align="left">Languages and Tools</h3>
 
 <b>Backend & Systems</b>
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,py,fastapi,django,graphql" />
 </p>
 
 <b>Frontend</b>
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,tailwind,materialui" />
 </p>
 
 <b>AI & Automation</b>
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=python" />
   <img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" />
 </p>
 
 <b>Databases</b>
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
 <b>Cloud & DevOps</b>
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux" />
 </p>
 
 <b>Tools</b>
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
 </p>
 

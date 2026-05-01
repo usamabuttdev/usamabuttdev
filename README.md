@@ -18,9 +18,9 @@ Focused on clean architecture, high-performance APIs, and real-world AI integrat
 <h3 align="center">🚀 Featured Work</h3>
 
 <p align="center">
-  🔹 <a href="https://getonsite.ai">AI Workflow Automation Platform</a><br>
-  🔹 <a href="https://app.apexmarkets.io">Real-time Trading & Analytics System</a><br>
-  🔹 <a href="https://enterpriseready.io">Scalable SaaS Architecture</a>
+  🔹 <a href="https://app.apexmarkets.io">Real-time Trading & Analytics System (Apex Markets)</a><br>
+  🔹 <a href="https://enterpriseready.io">Scalable SaaS Architecture (EnterpriseReady)</a><br>
+  🔹 <a href="https://tagdev.sa/">Modern SaaS Platform & Backend Systems (TagDev)</a>
 </p>
 
 ---

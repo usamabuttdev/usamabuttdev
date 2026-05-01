@@ -5,7 +5,7 @@ Senior Full-Stack & AI Engineer | Scalable Systems | APIs & Automation
 </h3>
 
 <p align="center">
-I build production-grade systems that scale.  
+I build production-grade systems that scale.<br>
 Focused on clean architecture, high-performance APIs, and real-world AI integrations.
 </p>
 
@@ -13,17 +13,21 @@ Focused on clean architecture, high-performance APIs, and real-world AI integrat
 🚀 I help startups and teams build scalable platforms, optimize performance, and integrate AI into real products.
 </p>
 
----
+<p align="center">
+💼 7+ years experience • AI Systems • Scalable SaaS • Real-time Platforms
+</p>
+
+<br><br>
 
 <h3 align="center">🚀 Featured Work</h3>
 
 <p align="center">
-  🔹 <a href="https://app.apexmarkets.io">Real-time Trading & Analytics System (Apex Markets)</a><br>
-  🔹 <a href="https://enterpriseready.io">Scalable SaaS Architecture (EnterpriseReady)</a><br>
-  🔹 <a href="https://tagdev.sa/">Modern SaaS Platform & Backend Systems (TagDev)</a>
+  🔹 <a href="https://app.apexmarkets.io"><b>Apex Markets</b></a> – Real-time trading & analytics system<br>
+  🔹 <a href="https://enterpriseready.io"><b>EnterpriseReady</b></a> – Scalable SaaS architecture<br>
+  🔹 <a href="https://metutors.com/"><b>Metutors</b></a> – Large-scale learning platform
 </p>
 
----
+<br><br>
 
 <h3 align="center">🧠 What I Do</h3>
 
@@ -35,26 +39,26 @@ Focused on clean architecture, high-performance APIs, and real-world AI integrat
 ✔ Guide teams toward clean, maintainable codebases
 </p>
 
----
+<br><br>
 
 <h3 align="center">⚙️ Tech Stack</h3>
 
 <b>Backend & Systems</b>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,py,fastapi,django,graphql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,py,fastapi,django,graphql,postgres,mongodb" height="40" />
 </p>
 
 <b>Frontend</b>
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,tailwind" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,tailwind" height="40" />
 </p>
 
 <b>Cloud, DevOps & Tools</b>
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,git,github,postman,vscode" height="40" />
 </p>
 
----
+<br><br>
 
 <h3 align="center">📈 Focus Areas</h3>
 
@@ -62,7 +66,7 @@ Focused on clean architecture, high-performance APIs, and real-world AI integrat
 System Architecture • API Design • Performance Optimization • AI Integrations • Automation • Scalable SaaS
 </p>
 
----
+<br><br>
 
 <h3 align="center">🤝 Let's Connect</h3>
 
